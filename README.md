@@ -40,3 +40,5 @@ RESOURCES USED:
 - Corey Schafer's Flask youtube series
 - stack overflow
 - youtube workout videos
+
+https://devpost.com/software/fitvid?ref_content=user-portfolio&ref_feature=in_progress
